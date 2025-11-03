@@ -1,0 +1,89 @@
+[
+  {
+    "id": "ebast-ematerai",
+    "name": "E-BAST e-Materai",
+    "tagline": "One app to simplify your life",
+    "description": "Sistem digital untuk pengelolaan Berita Acara Serah Terima (BAST) dan e-Materai. Streamline proses dokumentasi dan validasi dengan teknologi digital yang aman dan efisien. Kelola semua dokumen BAST Anda dalam satu platform terpusat.",
+    "url": "https://prima.telkominfra.com",
+    "icon": "FileCheck",
+    "color": "from-red-700 to-red-900",
+    "bgColor": "#8B1538",
+    "bgPattern": "dots",
+    "features": [
+      { "name": "BAST Digital", "icon": "FileText" },
+      { "name": "e-Materai", "icon": "Stamp" },
+      { "name": "Document Management", "icon": "FolderOpen" },
+      { "name": "Approval Flow", "icon": "CheckCircle" }
+    ]
+  },
+  {
+    "id": "dashboard-dismantle",
+    "name": "Dashboard Dismantle Radio IP",
+    "tagline": "One app to simplify your life",
+    "description": "Dashboard monitoring dan manajemen untuk proses dismantle radio IP. Pantau progress secara real-time, kelola inventory dengan efisien, dan track semua aktivitas dismantle dalam satu platform terpadu yang mudah digunakan.",
+    "url": "https://amara.telkominfra.com/",
+    "icon": "Radio",
+    "color": "from-red-600 to-red-800",
+    "bgColor": "#991B1B",
+    "bgPattern": "dots",
+    "features": [
+      { "name": "Real-time Monitoring", "icon": "Activity" },
+      { "name": "Inventory Management", "icon": "Package" },
+      { "name": "Progress Tracking", "icon": "TrendingUp" },
+      { "name": "Reports & Analytics", "icon": "BarChart" }
+    ]
+  },
+  {
+    "id": "kepo",
+    "name": "KEPO",
+    "tagline": "One app to simplify your life",
+    "description": "Knowledge & Engagement Portal for Operations. Platform terpusat untuk knowledge sharing, collaboration, dan operational excellence di TelkomInfra. Akses informasi, berbagi best practices, dan tingkatkan produktivitas tim Anda.",
+    "url": "https://kepo.telkominfra.com/login",
+    "icon": "Lightbulb",
+    "color": "from-teal-600 to-teal-800",
+    "bgColor": "#0D9488",
+    "bgPattern": "circuit",
+    "features": [
+      { "name": "Knowledge Base", "icon": "BookOpen" },
+      { "name": "Collaboration", "icon": "Users" },
+      { "name": "Best Practices", "icon": "Award" },
+      { "name": "Operations Hub", "icon": "Briefcase" }
+    ]
+  },
+  {
+    "id": "mytelkominfra",
+    "name": "MyTelkominfra",
+    "tagline": "One app to simplify your life",
+    "description": "Portal karyawan terpusat untuk akses informasi personal, benefit, payroll, dan layanan HR. One-stop solution untuk semua kebutuhan karyawan TelkomInfra. Kelola karir, akses benefit, dan stay connected dengan perusahaan.",
+    "url": "#coming-soon",
+    "icon": "User",
+    "color": "from-blue-600 to-blue-800",
+    "bgColor": "#1E40AF",
+    "bgPattern": "grid",
+    "comingSoon": true,
+    "features": [
+      { "name": "Employee Profile", "icon": "UserCircle" },
+      { "name": "Payroll & Benefits", "icon": "DollarSign" },
+      { "name": "Leave Management", "icon": "Calendar" },
+      { "name": "HR Services", "icon": "HeadphonesIcon" }
+    ]
+  },
+  {
+    "id": "presensi",
+    "name": "Presensi",
+    "tagline": "One app to simplify your life",
+    "description": "Sistem presensi digital dengan teknologi mobile untuk memudahkan check-in/check-out. Akurat, mudah, dan terintegrasi dengan sistem HR. Track kehadiran Anda, ajukan izin, dan monitor attendance history dengan mudah.",
+    "url": "#coming-soon",
+    "icon": "Clock",
+    "color": "from-indigo-600 to-indigo-800",
+    "bgColor": "#4338CA",
+    "bgPattern": "grid",
+    "comingSoon": true,
+    "features": [
+      { "name": "Mobile Check-in", "icon": "Smartphone" },
+      { "name": "Attendance History", "icon": "History" },
+      { "name": "Leave Request", "icon": "FileCheck" },
+      { "name": "Overtime Tracking", "icon": "Clock" }
+    ]
+  }
+]
